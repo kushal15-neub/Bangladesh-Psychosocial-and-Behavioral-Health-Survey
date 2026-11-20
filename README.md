@@ -216,19 +216,21 @@ This dataset can be reused for:
 - Comparative evaluation of predictive models.
 - Public health and behavioral science research.
 
-## ⚠️ Ethical Considerations and Limitations
+## Ethical Considerations and Limitations
 
-This dataset contains self-reported survey responses and derived depression-related scores.
+This dataset contains self-reported survey responses manually collected over a period of approximately four months for academic research and educational purposes.
 
 **Important considerations:**
 
+- Participation was voluntary, and participants were informed about the purpose of the data collection before providing their responses.
+- The shared dataset does not contain direct personal identifiers such as names, email addresses, telephone numbers, or residential addresses.
 - The dataset does not contain clinically confirmed psychiatric diagnoses.
-- The binary depression label is based on a predefined research threshold.
-- The seven symptom items are adapted from the DASS-21 depression subscale.
-- Predictive outcomes should not be used as substitutes for professional psychological or psychiatric assessments.
-- Researchers should consider sampling limitations and regional representation when interpreting findings.
-
-The dataset is intended for academic research and educational purposes.
+- The binary depression label was generated using a predefined research threshold and should not be interpreted as a clinical diagnosis.
+- The seven depression-related symptom items were adapted from the DASS-21 depression subscale.
+- The responses are self-reported and may be affected by response, recall, or interpretation bias.
+- The dataset represents the population reached through the manual data-collection process and may therefore have sampling and regional representation limitations.
+- Predictive outcomes generated using this dataset should not be used as substitutes for professional psychological or psychiatric assessments.
+- The dataset is intended for academic research, educational purposes, and methodological experimentation and should not be used for clinical diagnosis or other high-stakes decisions about individuals.
 
 ## 📚 Citation
 
