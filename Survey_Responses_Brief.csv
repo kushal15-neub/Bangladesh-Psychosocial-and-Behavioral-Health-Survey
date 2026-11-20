@@ -1,0 +1,508 @@
+﻿Timestamp,What is your age?,What is your gender?,What is your highest education level?,What is your current occupation?,What is your marital status?,How satisfied are you with your life overall?,How would you rate your sleep quality?,How many hours do you spend on screens daily?,How often do you exercise or engage in physical activity?,How often do you spend quality time with friends or family?,How stressed do you feel due to academic or work pressure?,Have you ever been diagnosed with depression or another mental health condition?,I couldn't seem to experience any positive feeling at all.,I found it difficult to work up the initiative to do things.,I felt that I had nothing to look forward to.,I felt sad and depressed.,I felt that I wasn't worth much as a person.,I felt that life was meaningless.,I felt I had lost interest in everything.
+21/05/2026 18:57:07,35,Female,Other,Other,Married,4,3,5-7 hours,Never,Very often,3,No,0,0,1,1,0,0,0
+21/05/2026 19:17:11,31 years,Male,Graduate,Employed,Married,5,5,5-7 hours,Sometimes,Sometimes,1,No,0,0,0,0,0,0,0
+21/05/2026 19:20:30,29,Female,Graduate,Employed,Married,3,3,5-7 hours,Sometimes,Often,3,No,0,1,0,1,0,0,0
+21/05/2026 19:30:16,30,Male,Graduate,Employed,Single,5,4,5-7 hours,Regularly,Often,4,Prefer not to say,1,2,1,2,1,0,0
+21/05/2026 20:01:44,33,Female,Graduate,Employed,Married,3,4,5-7 hours,Rarely,Often,3,No,1,1,0,0,1,0,0
+21/05/2026 20:23:39,22,Male,Undergraduate,Student,Single,3,3,2-4 hours,Rarely,Rarely,3,Yes,1,1,2,2,1,1,2
+21/05/2026 22:31:09,24,Female,Undergraduate,Student,Single,5,5,5-7 hours,Never,Often,3,No,0,1,3,0,3,0,0
+22/05/2026 21:16:48,24,Male,Graduate,Employed,Single,2,5,5-7 hours,Sometimes,Rarely,1,No,2,1,3,1,3,0,0
+23/05/2026 10:57:19,34,Male,Post graduate,Employed,Married,4,5,2-4 hours,Sometimes,Sometimes,3,No,1,1,0,1,0,0,0
+23/05/2026 12:19:59,27,Male,Undergraduate,Student,Single,3,2,Less than 2 hours,Rarely,Often,4,Yes,0,1,0,1,0,0,0
+23/05/2026 12:20:27,21,Female,Higher Secondary,Student,Single,5,5,2-4 hours,Rarely,Sometimes,3,No,0,0,0,0,0,0,0
+23/05/2026 12:25:34,22,Male,Undergraduate,Student,Single,4,4,5-7 hours,Sometimes,Sometimes,4,No,1,1,0,0,0,0,1
+23/05/2026 12:33:46,21,Female,Undergraduate,Student,Single,3,4,8-10 hours,Rarely,Sometimes,5,Yes,0,1,3,3,3,3,3
+23/05/2026 13:11:32,21,Female,Undergraduate,Student,Single,5,5,8-10 hours,Sometimes,Often,4,No,0,0,0,1,0,0,0
+23/05/2026 13:32:09,..,Male,Higher Secondary,Student,Single,5,5,More than 10 hours,Daily,Very often,5,No,0,0,0,0,0,0,0
+23/05/2026 13:49:16,21,Male,Undergraduate,Student,Single,5,4,5-7 hours,Sometimes,Very often,2,No,1,1,0,0,1,0,0
+23/05/2026 13:50:48,22,Female,Undergraduate,Student,Single,2,2,8-10 hours,Never,Never,5,Yes,0,3,3,3,3,3,3
+23/05/2026 15:14:30,23,Female,Undergraduate,Student,Single,3,4,2-4 hours,Sometimes,Sometimes,5,No,3,3,3,3,3,3,3
+23/05/2026 18:34:39,24,Male,Undergraduate,Student,Single,3,3,5-7 hours,Sometimes,Sometimes,3,No,3,2,2,0,0,0,0
+23/05/2026 20:26:32,20,Female,Higher Secondary,Student,Single,5,3,5-7 hours,Sometimes,Often,3,Yes,1,3,2,1,3,2,2
+23/05/2026 20:52:28,20,Female,Higher Secondary,Unemployed,Single,4,4,8-10 hours,Never,Often,3,No,1,3,1,1,1,1,1
+23/05/2026 20:57:12,24,Female,Undergraduate,Student,Married,5,4,2-4 hours,Daily,Sometimes,3,No,2,1,2,0,0,0,0
+23/05/2026 20:58:27,19,Female,Higher Secondary,Student,Single,3,4,8-10 hours,Rarely,Sometimes,4,Yes,2,1,1,2,2,1,3
+23/05/2026 21:02:52,23,Female,Undergraduate,Student,Single,4,3,2-4 hours,Rarely,Often,4,No,0,1,1,1,0,0,0
+23/05/2026 21:03:42,20,Female,Undergraduate,Student,Single,5,3,8-10 hours,Sometimes,Sometimes,4,Yes,0,1,0,0,0,0,0
+23/05/2026 21:04:14,22,Female,Undergraduate,Student,Single,5,4,5-7 hours,Sometimes,Often,3,No,0,0,0,0,0,0,0
+23/05/2026 21:05:16,19,Female,Undergraduate,Student,Single,4,5,5-7 hours,Rarely,Very often,3,No,0,1,1,0,0,0,0
+23/05/2026 21:19:00,20,Female,Undergraduate,Student,Single,4,3,8-10 hours,Never,Sometimes,4,No,0,2,0,1,0,0,0
+23/05/2026 21:28:08,20,Male,Higher Secondary,Student,Single,3,5,8-10 hours,Regularly,Sometimes,1,No,0,3,3,0,0,0,0
+23/05/2026 21:32:46,20,Male,Higher Secondary,Student,Single,4,3,More than 10 hours,Sometimes,Sometimes,3,No,0,2,1,1,1,0,0
+23/05/2026 21:34:13,19,Female,Higher Secondary,Student,Single,3,3,5-7 hours,Rarely,Sometimes,4,No,2,3,2,2,2,2,2
+23/05/2026 21:36:02,19,Male,Undergraduate,Student,Single,5,3,2-4 hours,Regularly,Often,4,No,1,2,3,0,1,0,1
+23/05/2026 21:56:33,23,Male,Undergraduate,Student,Single,3,2,More than 10 hours,Sometimes,Sometimes,4,Prefer not to say,3,3,3,3,3,1,2
+23/05/2026 23:08:28,26,Male,Undergraduate,Business,Single,5,5,2-4 hours,Rarely,Very often,4,No,0,2,0,0,0,0,0
+23/05/2026 23:11:01,19,Female,Higher Secondary,Student,Single,3,4,5-7 hours,Daily,Very often,4,No,0,1,2,0,2,2,2
+23/05/2026 23:44:21,20,Female,Higher Secondary,Student,Single,3,5,8-10 hours,Sometimes,Sometimes,4,No,0,1,0,1,1,0,0
+24/05/2026 04:02:31,21,Male,Undergraduate,Student,Single,3,4,Less than 2 hours,Rarely,Often,5,No,3,2,2,2,2,1,2
+24/05/2026 16:58:49,19,Female,Higher Secondary,Student,Single,2,1,5-7 hours,Sometimes,Never,3,Prefer not to say,2,3,2,1,1,3,1
+25/05/2026 00:15:28,21,Male,Undergraduate,Student,Single,5,4,5-7 hours,Sometimes,Sometimes,5,No,2,1,2,0,0,0,0
+25/05/2026 00:21:34,20,Male,Undergraduate,Student,Single,2,3,5-7 hours,Regularly,Often,3,Prefer not to say,1,2,2,3,1,2,2
+25/05/2026 00:26:21,21,Female,Undergraduate,Student,Single,3,5,8-10 hours,Never,Often,3,Prefer not to say,0,1,0,1,0,1,1
+25/05/2026 00:28:14,20,Male,Undergraduate,Student,Single,5,5,2-4 hours,Regularly,Very often,1,No,0,0,0,0,0,0,0
+25/05/2026 00:29:04,23,Male,Undergraduate,Student,Single,5,3,5-7 hours,Never,Sometimes,2,No,1,1,2,0,1,2,1
+25/05/2026 00:43:22,20,Male,Higher Secondary,Student,Single,3,2,5-7 hours,Rarely,Rarely,3,Prefer not to say,2,1,1,1,0,1,1
+25/05/2026 01:09:31,23,Male,Undergraduate,Student,Single,4,4,5-7 hours,Sometimes,Often,3,Yes,2,2,2,2,2,2,2
+25/05/2026 11:55:12,23,Female,Undergraduate,Student,Single,3,1,2-4 hours,Sometimes,Often,4,No,2,3,1,3,3,0,3
+25/05/2026 12:09:50,26,Male,Undergraduate,Student,Single,3,2,5-7 hours,Rarely,Rarely,3,No,1,0,1,2,1,1,1
+25/05/2026 12:33:43,22,Male,Higher Secondary,Student,Single,5,4,5-7 hours,Sometimes,Often,3,Prefer not to say,1,1,0,0,1,0,1
+26/05/2026 00:44:41,25,Male,Undergraduate,Student,Single,5,3,8-10 hours,Sometimes,Sometimes,4,No,0,1,2,1,1,0,0
+26/05/2026 20:29:43,23,Female,Undergraduate,Student,Single,1,4,2-4 hours,Daily,Very often,5,No,0,1,1,2,1,2,3
+27/05/2026 23:33:02,22,Female,Undergraduate,Student,Single,2,2,8-10 hours,Rarely,Sometimes,3,Yes,1,2,1,2,1,1,2
+28/05/2026 04:30:43,37,Male,Graduate,Employed,Married,5,5,5-7 hours,Rarely,Very often,5,No,0,1,0,0,0,0,0
+10/06/2026 00:12:28,22,Female,Higher Secondary,Student,Single,1,1,2-4 hours,Regularly,Often,4,Yes,2,3,3,3,3,3,3
+26/05/2026 09:25:07,27,Female,Higher Secondary,Student,Single,3,5,5-7 hours,Daily,Often,4,Prefer not to say,1,3,1,1,1,0,3
+26/05/2026 01:14:07,27,Male,Undergraduate,Student,Single,5,5,5-7 hours,Sometimes,Rarely,4,Prefer not to say,0,1,0,1,0,0,3
+22/05/2026 17:11:07,32,Male,Undergraduate,Student,Single,5,3,5-7 hours,Regularly,Sometimes,4,No,1,3,3,1,0,0,0
+31/05/2026 02:56:07,29,Female,Undergraduate,Employed,Single,3,4,2-4 hours,Rarely,Sometimes,3,No,2,3,2,1,1,2,0
+29/05/2026 16:53:07,32,Female,Undergraduate,Business,Married,4,5,8-10 hours,Rarely,Sometimes,2,No,0,3,1,3,3,0,0
+24/05/2026 10:59:07,23,Female,Undergraduate,Student,Married,2,3,8-10 hours,Sometimes,Often,3,No,0,3,1,2,1,0,0
+26/05/2026 00:58:07,28,Male,Undergraduate,Student,Single,5,3,More than 10 hours,Sometimes,Sometimes,5,Prefer not to say,0,2,2,2,0,0,3
+26/05/2026 18:40:07,29,Female,Undergraduate,Student,Single,5,5,2-4 hours,Rarely,Sometimes,5,No,0,1,3,2,0,0,1
+28/05/2026 20:03:07,30,Female,Undergraduate,Student,Single,3,4,8-10 hours,Sometimes,Sometimes,5,Yes,0,2,2,2,3,0,2
+25/05/2026 17:28:07,28,Female,Undergraduate,Student,Single,3,4,8-10 hours,Daily,Sometimes,3,No,3,1,3,1,1,1,2
+31/05/2026 05:54:07,23,Female,Graduate,Student,Single,5,2,5-7 hours,Sometimes,Often,3,Yes,1,2,1,0,0,2,0
+30/05/2026 18:38:07,21,Female,Undergraduate,Student,Single,5,5,8-10 hours,Regularly,Often,3,Prefer not to say,0,1,0,1,3,0,2
+27/05/2026 05:57:07,50,Male,Higher Secondary,Employed,Single,5,4,2-4 hours,Rarely,Sometimes,3,No,0,2,0,1,0,0,0
+24/05/2026 18:32:07,21,Female,Higher Secondary,Student,Single,1,3,5-7 hours,Never,Rarely,3,No,0,2,0,0,1,0,1
+22/05/2026 14:24:07,42,Female,Post graduate,Student,Single,5,4,8-10 hours,Sometimes,Rarely,4,Prefer not to say,0,0,1,0,1,0,0
+30/05/2026 16:43:07,22,Male,Higher Secondary,Unemployed,Single,3,5,5-7 hours,Never,Often,3,No,2,0,2,1,3,0,3
+30/05/2026 19:44:07,20,Female,Higher Secondary,Student,Married,5,5,5-7 hours,Sometimes,Sometimes,4,No,0,1,1,0,3,0,0
+25/05/2026 01:06:07,42,Female,Undergraduate,Student,Single,3,2,2-4 hours,Sometimes,Very often,4,No,1,2,3,0,0,0,0
+29/05/2026 11:16:07,19,Male,Undergraduate,Business,Single,3,4,Less than 2 hours,Sometimes,Sometimes,3,No,0,2,0,1,1,0,0
+24/05/2026 02:17:07,21,Female,Higher Secondary,Student,Single,5,3,8-10 hours,Daily,Often,3,Yes,0,1,3,1,0,0,0
+27/05/2026 05:41:07,20,Female,Higher Secondary,Student,Single,5,4,More than 10 hours,Sometimes,Often,4,No,0,2,0,2,0,1,1
+27/05/2026 12:52:07,38,Female,Undergraduate,Student,Single,3,4,2-4 hours,Rarely,Often,1,No,0,1,1,0,1,3,0
+25/05/2026 09:11:07,22,Female,Higher Secondary,Student,Single,3,5,5-7 hours,Sometimes,Very often,4,No,1,0,0,0,0,0,0
+22/05/2026 02:32:07,26,Female,Undergraduate,Student,Single,5,3,2-4 hours,Rarely,Often,3,No,2,0,0,0,1,1,0
+21/05/2026 19:19:07,30,Female,Higher Secondary,Student,Single,5,5,2-4 hours,Rarely,Often,4,No,2,3,0,2,2,0,0
+22/05/2026 04:11:07,22,Female,Undergraduate,Student,Single,3,3,8-10 hours,Sometimes,Sometimes,3,No,1,1,0,2,0,0,0
+30/05/2026 23:29:07,30,Male,Other,Student,Single,5,4,8-10 hours,Sometimes,Sometimes,3,No,0,3,1,1,3,0,0
+28/05/2026 04:52:07,20,Male,Undergraduate,Student,Single,3,4,8-10 hours,Never,Sometimes,1,No,0,2,3,0,0,3,0
+31/05/2026 07:55:07,21,Male,Graduate,Student,Single,5,2,5-7 hours,Daily,Often,3,No,0,3,0,2,1,1,2
+22/05/2026 04:42:07,20,Female,Higher Secondary,Student,Single,5,4,5-7 hours,Daily,Often,3,No,0,1,0,0,0,0,2
+24/05/2026 09:54:07,26,Male,Higher Secondary,Student,Single,4,5,8-10 hours,Sometimes,Often,4,Prefer not to say,0,2,0,0,1,0,0
+22/05/2026 19:10:07,23,Female,Undergraduate,Student,Single,5,4,5-7 hours,Never,Very often,4,No,1,1,3,0,0,0,0
+24/05/2026 15:24:07,33,Male,Higher Secondary,Student,Single,3,1,5-7 hours,Regularly,Often,5,No,2,2,2,1,1,3,1
+28/05/2026 03:19:07,21,Male,Higher Secondary,Student,Single,1,4,5-7 hours,Sometimes,Sometimes,3,No,1,3,1,2,0,0,3
+29/05/2026 15:11:07,20,Male,Higher Secondary,Student,Single,5,3,5-7 hours,Never,Sometimes,1,Yes,0,1,3,1,0,1,3
+24/05/2026 17:49:07,20,Female,Post graduate,Student,Single,2,4,5-7 hours,Rarely,Often,3,No,1,1,3,3,0,2,0
+31/05/2026 08:51:07,21,Female,Graduate,Employed,Married,5,1,2-4 hours,Rarely,Sometimes,3,No,1,0,0,2,0,3,0
+27/05/2026 09:27:07,22,Male,Higher Secondary,Student,Single,5,3,2-4 hours,Sometimes,Sometimes,3,No,2,1,0,1,3,2,1
+22/05/2026 06:05:07,20,Female,Undergraduate,Employed,Married,5,4,8-10 hours,Rarely,Never,3,Yes,1,1,0,0,3,0,3
+30/05/2026 23:39:07,40,Male,Undergraduate,Student,Single,5,4,5-7 hours,Sometimes,Sometimes,4,Prefer not to say,0,1,1,2,2,0,0
+23/05/2026 11:58:07,19,Female,Higher Secondary,Student,Single,5,4,8-10 hours,Sometimes,Sometimes,3,No,2,1,1,3,3,0,0
+23/05/2026 18:03:07,19,Male,Undergraduate,Student,Single,5,5,More than 10 hours,Sometimes,Sometimes,4,No,0,1,0,0,0,2,0
+28/05/2026 00:28:07,32,Male,Undergraduate,Business,Single,4,4,5-7 hours,Rarely,Very often,3,Yes,0,1,2,0,3,0,0
+29/05/2026 14:53:07,28,Female,Post graduate,Student,Single,3,5,8-10 hours,Sometimes,Sometimes,3,Yes,2,2,1,3,1,3,0
+22/05/2026 17:09:07,22,Female,Graduate,Student,Single,4,3,More than 10 hours,Sometimes,Often,3,No,3,2,3,1,3,0,0
+23/05/2026 17:09:07,21,Male,Higher Secondary,Student,Married,5,5,2-4 hours,Rarely,Sometimes,3,No,1,1,1,1,2,0,3
+29/05/2026 11:38:07,31,Female,Undergraduate,Student,Single,1,4,5-7 hours,Sometimes,Rarely,3,No,3,1,3,3,3,0,0
+30/05/2026 06:28:07,22,Female,Undergraduate,Other,Married,3,3,5-7 hours,Sometimes,Never,3,No,0,1,0,1,0,0,0
+31/05/2026 05:23:07,26,Female,Undergraduate,Student,Single,1,4,5-7 hours,Never,Sometimes,4,No,2,1,2,2,3,0,2
+27/05/2026 03:41:07,25,Male,Undergraduate,Employed,Single,5,1,5-7 hours,Sometimes,Often,4,No,0,3,3,2,3,1,3
+21/05/2026 20:04:07,21,Female,Undergraduate,Student,Single,3,3,5-7 hours,Daily,Sometimes,3,Yes,2,2,3,3,0,1,0
+22/05/2026 17:23:07,22,Female,Undergraduate,Student,Single,5,5,5-7 hours,Sometimes,Often,3,Yes,0,3,0,0,0,0,2
+23/05/2026 19:56:07,21,Male,Higher Secondary,Employed,Single,5,2,5-7 hours,Rarely,Often,3,No,0,1,0,0,0,0,0
+23/05/2026 01:58:07,20,Male,Undergraduate,Student,Single,4,3,2-4 hours,Rarely,Often,3,Yes,2,3,0,3,2,0,0
+24/05/2026 00:47:07,31,Female,Other,Student,Single,1,3,5-7 hours,Rarely,Rarely,3,Yes,1,0,0,0,3,0,0
+23/05/2026 17:30:07,19,Female,Undergraduate,Student,Single,2,1,5-7 hours,Rarely,Never,3,No,0,0,0,0,1,3,0
+29/05/2026 15:15:07,24,Male,Undergraduate,Student,Single,4,4,5-7 hours,Rarely,Often,3,Yes,0,1,0,1,2,0,0
+30/05/2026 22:28:07,20,Male,Undergraduate,Student,Single,3,3,5-7 hours,Never,Sometimes,2,No,0,1,3,0,1,1,0
+24/05/2026 21:05:07,50,Female,Higher Secondary,Student,Single,4,5,2-4 hours,Rarely,Often,5,Prefer not to say,1,1,1,3,3,0,3
+22/05/2026 14:07:07,21,Male,Undergraduate,Student,Single,4,3,8-10 hours,Sometimes,Sometimes,3,No,1,3,2,0,0,0,0
+23/05/2026 07:20:07,21,Male,Post graduate,Student,Single,4,4,5-7 hours,Rarely,Often,4,No,1,1,2,1,1,0,1
+27/05/2026 05:02:07,23,Male,Undergraduate,Student,Single,3,4,More than 10 hours,Sometimes,Often,3,No,2,0,3,2,1,0,0
+26/05/2026 05:22:07,35,Male,Higher Secondary,Student,Single,3,2,5-7 hours,Rarely,Sometimes,3,Yes,2,1,1,3,2,2,2
+21/05/2026 19:55:07,20,Male,Higher Secondary,Student,Single,3,3,5-7 hours,Regularly,Very often,1,No,2,2,2,3,0,0,0
+22/05/2026 07:14:07,24,Female,Undergraduate,Employed,Single,5,5,More than 10 hours,Sometimes,Sometimes,3,No,0,1,1,1,0,0,0
+23/05/2026 00:09:07,20,Female,Undergraduate,Student,Single,3,4,5-7 hours,Sometimes,Often,3,No,1,3,2,0,0,0,0
+23/05/2026 17:45:07,31,Female,Graduate,Student,Single,3,4,2-4 hours,Regularly,Often,3,Yes,1,1,1,1,1,2,1
+29/05/2026 11:17:07,22,Female,Undergraduate,Student,Single,3,1,5-7 hours,Sometimes,Sometimes,4,No,0,2,0,1,3,1,1
+28/05/2026 10:49:07,50,Male,Higher Secondary,Student,Married,3,4,More than 10 hours,Sometimes,Sometimes,5,Yes,0,1,0,1,1,1,0
+30/05/2026 17:52:07,21,Female,Undergraduate,Student,Single,2,5,More than 10 hours,Rarely,Often,4,No,0,2,0,0,3,3,0
+22/05/2026 05:04:07,22,Male,Undergraduate,Student,Single,4,4,2-4 hours,Sometimes,Sometimes,4,No,1,1,0,2,0,0,0
+29/05/2026 21:34:07,21,Female,Other,Student,Single,3,5,5-7 hours,Regularly,Sometimes,4,No,0,1,2,0,1,2,0
+27/05/2026 11:33:07,20,Male,Undergraduate,Student,Single,5,3,5-7 hours,Regularly,Sometimes,3,No,0,1,3,2,1,2,3
+30/05/2026 12:45:07,20,Female,Higher Secondary,Employed,Single,4,2,5-7 hours,Sometimes,Often,3,No,0,3,3,0,0,1,0
+27/05/2026 20:22:07,20,Male,Undergraduate,Student,Single,3,2,2-4 hours,Sometimes,Sometimes,4,No,1,1,1,3,0,0,2
+28/05/2026 11:59:07,33,Male,Undergraduate,Student,Single,5,4,Less than 2 hours,Rarely,Very often,3,No,0,0,3,0,1,0,1
+30/05/2026 06:38:07,27,Male,Undergraduate,Student,Single,4,3,2-4 hours,Sometimes,Sometimes,5,No,0,1,0,0,0,0,0
+25/05/2026 12:18:07,50,Female,Higher Secondary,Student,Single,3,3,5-7 hours,Sometimes,Sometimes,4,Prefer not to say,2,1,3,1,1,0,0
+26/05/2026 13:52:07,23,Male,Higher Secondary,Student,Single,3,5,5-7 hours,Sometimes,Sometimes,4,No,1,1,3,1,0,0,3
+31/05/2026 03:28:07,23,Female,Undergraduate,Student,Single,2,3,2-4 hours,Sometimes,Often,3,No,0,3,2,1,0,0,1
+23/05/2026 09:06:07,27,Female,Higher Secondary,Business,Single,3,4,5-7 hours,Rarely,Often,3,No,0,1,0,0,0,0,1
+30/05/2026 12:14:07,31,Female,Undergraduate,Student,Single,2,4,2-4 hours,Sometimes,Sometimes,1,No,1,2,2,0,0,0,0
+25/05/2026 07:02:07,23,Male,Undergraduate,Employed,Single,4,3,5-7 hours,Sometimes,Often,3,No,1,2,0,1,3,0,2
+25/05/2026 17:16:07,21,Female,Undergraduate,Unemployed,Married,5,3,5-7 hours,Sometimes,Sometimes,3,No,1,1,3,3,0,0,0
+27/05/2026 20:25:07,20,Male,Undergraduate,Employed,Single,3,1,8-10 hours,Sometimes,Often,3,No,0,0,0,1,0,1,3
+26/05/2026 18:19:07,22,Male,Higher Secondary,Student,Single,5,4,5-7 hours,Rarely,Sometimes,3,No,1,0,2,0,0,0,0
+26/05/2026 15:15:07,27,Female,Higher Secondary,Student,Single,3,4,5-7 hours,Rarely,Sometimes,3,No,2,2,2,0,0,3,0
+23/05/2026 18:51:07,19,Female,Higher Secondary,Student,Single,3,5,8-10 hours,Rarely,Very often,3,No,2,0,0,0,0,1,0
+28/05/2026 16:23:07,19,Male,Higher Secondary,Student,Married,4,4,5-7 hours,Sometimes,Often,3,No,2,3,3,2,0,3,0
+25/05/2026 12:09:07,19,Female,Undergraduate,Student,Single,5,5,5-7 hours,Never,Often,4,No,1,2,2,3,0,0,0
+26/05/2026 01:16:07,20,Female,Undergraduate,Employed,Single,3,3,5-7 hours,Regularly,Often,3,No,1,2,3,0,0,0,0
+26/05/2026 06:39:07,42,Male,Undergraduate,Student,Single,3,3,5-7 hours,Sometimes,Often,3,No,1,0,0,2,0,0,2
+24/05/2026 12:13:07,28,Male,Higher Secondary,Student,Single,5,3,2-4 hours,Rarely,Often,3,No,0,1,1,0,3,1,0
+23/05/2026 22:56:07,31,Female,Undergraduate,Other,Single,5,3,8-10 hours,Sometimes,Often,3,Yes,0,1,2,0,0,3,3
+30/05/2026 19:07:07,19,Male,Undergraduate,Student,Married,5,5,5-7 hours,Sometimes,Very often,3,No,3,2,1,2,2,0,2
+22/05/2026 17:37:07,31,Female,Higher Secondary,Student,Single,2,4,8-10 hours,Rarely,Sometimes,4,No,1,1,0,2,0,0,0
+25/05/2026 16:32:07,22,Male,Graduate,Student,Single,3,3,5-7 hours,Rarely,Sometimes,3,No,1,1,0,0,3,1,2
+22/05/2026 11:40:07,25,Female,Undergraduate,Student,Single,3,1,2-4 hours,Never,Very often,3,No,1,1,1,0,1,1,2
+22/05/2026 09:42:07,20,Female,Post graduate,Student,Single,5,5,More than 10 hours,Never,Very often,3,Yes,3,1,1,0,3,0,0
+26/05/2026 16:21:07,31,Female,Undergraduate,Student,Single,1,5,2-4 hours,Never,Often,3,No,0,1,0,1,3,0,0
+25/05/2026 18:02:07,26,Male,Undergraduate,Employed,Single,3,5,More than 10 hours,Never,Often,4,No,0,2,0,0,0,0,0
+31/05/2026 09:13:07,23,Male,Undergraduate,Student,Single,3,4,Less than 2 hours,Sometimes,Sometimes,3,No,2,2,3,0,0,0,0
+27/05/2026 06:26:07,19,Male,Undergraduate,Student,Married,5,4,8-10 hours,Sometimes,Sometimes,2,No,0,1,0,2,0,1,2
+28/05/2026 12:31:07,20,Female,Undergraduate,Student,Married,1,5,5-7 hours,Rarely,Sometimes,2,Prefer not to say,0,1,1,1,0,0,0
+25/05/2026 04:53:07,20,Female,Undergraduate,Student,Single,5,5,5-7 hours,Rarely,Sometimes,3,No,0,1,0,2,1,3,2
+27/05/2026 03:49:07,34,Male,Undergraduate,Employed,Single,2,5,8-10 hours,Sometimes,Rarely,4,No,0,3,2,0,1,0,0
+23/05/2026 19:50:07,35,Female,Higher Secondary,Student,Single,5,4,8-10 hours,Regularly,Sometimes,3,No,1,1,2,0,3,0,0
+24/05/2026 00:22:07,28,Male,Undergraduate,Student,Single,3,5,2-4 hours,Rarely,Often,3,No,1,3,0,2,2,0,0
+31/05/2026 09:46:07,30,Female,Other,Student,Single,3,4,8-10 hours,Rarely,Often,5,No,2,3,3,3,3,1,3
+24/05/2026 00:10:07,21,Male,Undergraduate,Student,Single,4,4,2-4 hours,Sometimes,Sometimes,4,No,0,0,2,3,0,2,1
+26/05/2026 18:35:07,36,Male,Higher Secondary,Student,Single,5,3,5-7 hours,Never,Often,4,No,2,3,0,3,3,1,0
+28/05/2026 08:57:07,26,Female,Undergraduate,Student,Single,3,2,2-4 hours,Rarely,Often,3,No,0,1,0,0,0,0,1
+23/05/2026 19:12:07,20,Male,Undergraduate,Student,Single,2,3,5-7 hours,Sometimes,Very often,5,No,0,1,2,1,3,1,0
+30/05/2026 18:26:07,29,Male,Undergraduate,Student,Single,2,4,2-4 hours,Never,Sometimes,3,Yes,0,1,3,3,1,0,0
+30/05/2026 08:09:07,36,Male,Undergraduate,Student,Single,5,3,2-4 hours,Daily,Sometimes,5,Yes,1,1,2,3,1,1,1
+30/05/2026 20:31:07,23,Male,Undergraduate,Student,Single,3,5,5-7 hours,Sometimes,Often,4,No,0,2,2,0,1,0,0
+23/05/2026 13:22:07,34,Male,Undergraduate,Student,Single,5,3,2-4 hours,Daily,Sometimes,5,No,1,2,2,0,0,0,3
+28/05/2026 02:02:07,23,Male,Undergraduate,Student,Single,5,5,5-7 hours,Never,Sometimes,1,No,2,3,1,0,3,0,3
+22/05/2026 12:22:07,20,Female,Undergraduate,Student,Single,5,4,5-7 hours,Rarely,Never,3,No,0,1,2,1,3,0,3
+25/05/2026 00:45:07,28,Male,Undergraduate,Employed,Single,4,5,8-10 hours,Sometimes,Sometimes,4,Yes,1,1,3,0,0,0,1
+25/05/2026 20:50:07,26,Male,Undergraduate,Unemployed,Single,3,1,5-7 hours,Rarely,Sometimes,4,Yes,0,1,2,1,0,3,1
+24/05/2026 02:07:07,31,Male,Post graduate,Student,Single,3,5,8-10 hours,Never,Sometimes,4,No,2,0,0,1,0,0,2
+29/05/2026 08:47:07,22,Male,Graduate,Student,Married,2,4,8-10 hours,Rarely,Sometimes,3,No,0,3,2,2,2,2,2
+30/05/2026 18:50:07,30,Female,Higher Secondary,Student,Married,3,4,8-10 hours,Daily,Sometimes,4,Prefer not to say,2,1,1,0,2,0,2
+22/05/2026 08:51:07,22,Female,Higher Secondary,Student,Single,5,4,5-7 hours,Sometimes,Sometimes,4,Yes,0,3,0,3,2,0,3
+29/05/2026 06:29:07,19,Male,Graduate,Student,Single,3,1,Less than 2 hours,Sometimes,Often,4,Yes,0,3,3,3,0,0,1
+24/05/2026 02:05:07,31,Female,Undergraduate,Student,Married,5,4,8-10 hours,Sometimes,Rarely,3,No,1,1,0,0,1,1,0
+25/05/2026 22:17:07,42,Female,Undergraduate,Student,Single,5,3,8-10 hours,Never,Very often,4,Yes,0,0,3,2,0,1,2
+28/05/2026 08:42:07,20,Female,Higher Secondary,Student,Single,1,4,2-4 hours,Never,Never,3,Yes,0,1,1,0,1,0,2
+22/05/2026 09:14:07,23,Male,Graduate,Employed,Married,5,5,5-7 hours,Regularly,Sometimes,5,No,0,1,0,2,1,0,0
+29/05/2026 07:19:07,32,Male,Undergraduate,Student,Single,4,4,5-7 hours,Sometimes,Often,3,No,0,0,3,0,1,3,1
+23/05/2026 18:00:07,27,Male,Undergraduate,Student,Married,4,5,More than 10 hours,Rarely,Sometimes,4,No,0,3,0,3,0,1,2
+25/05/2026 17:20:07,35,Male,Undergraduate,Student,Married,5,5,5-7 hours,Sometimes,Sometimes,5,No,1,1,0,3,2,3,1
+22/05/2026 12:34:07,19,Female,Higher Secondary,Employed,Single,1,5,8-10 hours,Never,Often,3,No,1,1,3,1,3,3,3
+21/05/2026 23:57:07,28,Female,Graduate,Student,Single,5,5,5-7 hours,Rarely,Sometimes,3,No,1,2,2,1,0,0,0
+26/05/2026 15:07:07,21,Male,Higher Secondary,Student,Single,5,4,5-7 hours,Never,Very often,3,No,2,0,1,0,0,0,1
+22/05/2026 11:31:07,19,Male,Higher Secondary,Employed,Married,3,5,5-7 hours,Sometimes,Often,4,No,2,1,2,0,0,0,0
+26/05/2026 02:12:07,37,Female,Higher Secondary,Student,Single,3,5,2-4 hours,Rarely,Sometimes,1,No,1,1,2,1,3,0,2
+24/05/2026 23:13:07,26,Female,Graduate,Student,Single,3,3,5-7 hours,Daily,Often,4,No,0,1,0,2,0,0,0
+30/05/2026 10:47:07,33,Male,Undergraduate,Student,Single,3,4,2-4 hours,Rarely,Sometimes,3,No,1,2,3,2,0,0,0
+28/05/2026 17:04:07,22,Male,Higher Secondary,Other,Single,4,4,2-4 hours,Never,Sometimes,5,No,1,1,3,0,1,0,2
+24/05/2026 02:59:07,23,Female,Undergraduate,Student,Single,5,4,8-10 hours,Sometimes,Very often,5,No,1,1,0,0,2,2,2
+25/05/2026 15:39:07,38,Female,Undergraduate,Employed,Single,3,5,8-10 hours,Daily,Often,4,No,1,1,2,2,0,3,1
+27/05/2026 17:10:07,34,Female,Undergraduate,Student,Single,5,4,2-4 hours,Sometimes,Sometimes,3,No,0,1,1,0,0,1,1
+28/05/2026 19:45:07,35,Female,Undergraduate,Student,Single,3,2,5-7 hours,Rarely,Very often,3,No,0,2,0,1,1,0,0
+23/05/2026 10:44:07,21,Male,Undergraduate,Employed,Single,3,2,8-10 hours,Sometimes,Sometimes,5,Yes,2,1,2,2,0,0,0
+23/05/2026 00:16:07,23,Male,Undergraduate,Student,Single,3,4,5-7 hours,Rarely,Sometimes,4,Prefer not to say,1,2,3,0,0,1,2
+23/05/2026 22:49:07,20,Female,Undergraduate,Student,Single,3,4,8-10 hours,Rarely,Often,3,No,2,2,3,1,0,0,0
+25/05/2026 19:46:07,21,Male,Graduate,Student,Single,4,4,2-4 hours,Never,Very often,4,Prefer not to say,1,2,1,0,0,0,2
+23/05/2026 13:57:07,19,Female,Undergraduate,Student,Single,1,5,2-4 hours,Rarely,Sometimes,3,No,0,2,2,3,3,2,0
+25/05/2026 23:36:07,24,Male,Undergraduate,Employed,Single,2,4,5-7 hours,Rarely,Often,3,Prefer not to say,1,1,0,0,0,0,3
+30/05/2026 21:20:07,26,Male,Undergraduate,Student,Married,3,5,2-4 hours,Daily,Sometimes,3,No,1,2,0,1,3,0,0
+25/05/2026 18:08:07,20,Female,Undergraduate,Employed,Single,5,3,8-10 hours,Rarely,Often,4,No,0,0,0,0,0,1,0
+31/05/2026 01:54:07,25,Male,Post graduate,Student,Single,1,5,5-7 hours,Rarely,Rarely,5,No,0,0,3,1,2,0,3
+22/05/2026 10:06:07,22,Female,Undergraduate,Student,Single,5,4,5-7 hours,Sometimes,Often,4,No,0,1,2,1,0,1,0
+27/05/2026 14:44:07,20,Female,Undergraduate,Unemployed,Single,1,4,2-4 hours,Rarely,Sometimes,3,No,0,1,2,0,1,0,2
+24/05/2026 18:33:07,25,Male,Undergraduate,Student,Single,4,4,5-7 hours,Rarely,Often,3,No,0,1,2,0,2,2,0
+28/05/2026 21:34:07,45,Female,Higher Secondary,Student,Single,3,5,5-7 hours,Rarely,Very often,5,Prefer not to say,0,2,2,1,0,0,0
+24/05/2026 12:51:07,20,Female,Undergraduate,Employed,Single,5,5,2-4 hours,Rarely,Very often,1,Prefer not to say,1,1,2,3,0,1,2
+28/05/2026 17:10:07,21,Female,Higher Secondary,Student,Single,5,5,2-4 hours,Sometimes,Very often,5,No,0,1,2,1,1,0,1
+24/05/2026 10:56:07,26,Female,Undergraduate,Employed,Single,3,1,2-4 hours,Sometimes,Often,5,No,0,1,1,1,3,2,2
+24/05/2026 04:59:07,28,Male,Undergraduate,Student,Single,5,3,More than 10 hours,Rarely,Sometimes,3,No,1,2,3,0,3,0,0
+30/05/2026 17:16:07,21,Female,Undergraduate,Student,Single,3,4,5-7 hours,Daily,Sometimes,4,No,2,3,0,3,1,0,0
+26/05/2026 14:46:07,23,Male,Undergraduate,Student,Single,3,3,5-7 hours,Rarely,Often,4,No,0,1,1,1,0,0,2
+27/05/2026 15:29:07,30,Female,Undergraduate,Student,Single,5,2,5-7 hours,Sometimes,Often,3,Prefer not to say,1,2,1,0,3,0,0
+25/05/2026 18:25:07,31,Male,Graduate,Student,Single,3,4,More than 10 hours,Sometimes,Very often,5,No,1,0,2,1,0,0,1
+26/05/2026 19:22:07,28,Female,Undergraduate,Student,Single,3,3,5-7 hours,Rarely,Sometimes,3,Prefer not to say,0,3,1,3,1,2,3
+23/05/2026 03:53:07,36,Male,Undergraduate,Student,Single,4,3,8-10 hours,Daily,Rarely,3,No,2,1,2,0,1,0,1
+28/05/2026 00:02:07,25,Male,Graduate,Business,Single,5,1,5-7 hours,Never,Sometimes,3,No,3,3,0,2,1,1,3
+24/05/2026 08:24:07,37,Male,Higher Secondary,Employed,Single,3,3,5-7 hours,Rarely,Often,3,No,0,1,1,0,3,2,0
+29/05/2026 09:28:07,23,Male,Undergraduate,Student,Single,5,5,2-4 hours,Regularly,Sometimes,5,No,1,1,3,0,1,0,3
+29/05/2026 01:14:07,45,Female,Other,Student,Single,4,5,5-7 hours,Regularly,Often,4,Yes,3,0,0,1,0,0,0
+28/05/2026 21:15:07,37,Female,Undergraduate,Student,Single,4,4,2-4 hours,Never,Often,4,Prefer not to say,0,1,0,2,1,0,1
+28/05/2026 09:51:07,21,Female,Undergraduate,Student,Married,3,1,5-7 hours,Never,Often,3,Yes,2,2,0,3,0,0,2
+30/05/2026 12:49:07,19,Female,Undergraduate,Employed,Single,5,3,5-7 hours,Never,Rarely,3,Prefer not to say,0,1,2,1,1,0,0
+24/05/2026 17:14:07,26,Female,Higher Secondary,Employed,Single,3,3,8-10 hours,Sometimes,Sometimes,4,No,2,1,0,0,3,0,2
+22/05/2026 15:55:07,20,Male,Graduate,Student,Single,3,4,8-10 hours,Regularly,Often,5,No,0,1,3,0,3,2,2
+21/05/2026 22:22:07,22,Male,Undergraduate,Student,Single,3,3,8-10 hours,Rarely,Often,3,Prefer not to say,1,1,2,3,3,1,0
+22/05/2026 06:08:07,23,Male,Graduate,Employed,Single,4,3,5-7 hours,Rarely,Never,4,No,2,1,3,3,1,0,0
+22/05/2026 17:14:07,34,Male,Undergraduate,Student,Single,5,5,2-4 hours,Regularly,Sometimes,3,Prefer not to say,0,3,2,2,0,2,3
+23/05/2026 08:29:07,23,Male,Undergraduate,Business,Single,3,5,5-7 hours,Sometimes,Often,3,No,2,1,0,0,3,3,0
+31/05/2026 00:45:07,23,Male,Undergraduate,Student,Single,2,3,5-7 hours,Never,Sometimes,5,No,0,3,1,0,0,0,0
+23/05/2026 20:55:07,19,Female,Undergraduate,Student,Single,5,4,2-4 hours,Sometimes,Sometimes,3,Prefer not to say,0,3,2,0,3,1,0
+31/05/2026 03:18:07,36,Male,Undergraduate,Employed,Single,5,4,2-4 hours,Sometimes,Very often,5,No,1,1,0,0,1,3,1
+25/05/2026 04:14:07,23,Male,Undergraduate,Student,Single,3,3,2-4 hours,Regularly,Often,5,No,1,1,2,2,0,0,0
+23/05/2026 14:39:07,29,Male,Undergraduate,Employed,Single,5,3,5-7 hours,Sometimes,Often,4,Yes,1,1,1,3,3,0,0
+24/05/2026 05:28:07,24,Female,Higher Secondary,Student,Single,4,4,More than 10 hours,Never,Often,4,No,1,1,0,1,0,2,0
+30/05/2026 01:03:07,21,Female,Undergraduate,Student,Single,3,3,2-4 hours,Sometimes,Often,3,No,3,1,1,1,3,0,0
+24/05/2026 01:50:07,23,Female,Graduate,Student,Single,3,3,5-7 hours,Daily,Often,1,Yes,3,3,0,3,0,2,0
+26/05/2026 14:23:07,20,Male,Higher Secondary,Other,Married,5,4,8-10 hours,Never,Often,3,No,0,0,1,1,0,2,0
+27/05/2026 08:58:07,25,Male,Undergraduate,Employed,Single,5,4,2-4 hours,Sometimes,Sometimes,5,No,0,0,2,1,3,0,0
+22/05/2026 23:03:07,27,Male,Undergraduate,Employed,Single,2,5,2-4 hours,Sometimes,Often,3,No,2,3,0,0,0,1,0
+28/05/2026 15:53:07,33,Male,Undergraduate,Unemployed,Single,3,3,2-4 hours,Sometimes,Sometimes,1,No,0,1,3,1,1,0,0
+29/05/2026 11:45:07,30,Female,Undergraduate,Student,Single,4,3,5-7 hours,Sometimes,Often,4,No,2,1,0,3,1,0,0
+25/05/2026 17:45:07,34,Female,Higher Secondary,Business,Single,5,5,5-7 hours,Sometimes,Often,5,Prefer not to say,2,2,1,0,2,0,0
+24/05/2026 01:27:07,23,Male,Higher Secondary,Student,Single,5,4,5-7 hours,Sometimes,Sometimes,3,Yes,2,1,1,1,3,1,0
+25/05/2026 10:33:07,31,Male,Higher Secondary,Student,Single,5,2,2-4 hours,Sometimes,Very often,5,Prefer not to say,1,2,0,2,1,1,0
+22/05/2026 19:20:07,26,Female,Undergraduate,Student,Single,5,3,2-4 hours,Never,Sometimes,5,No,0,3,0,3,2,0,1
+24/05/2026 02:18:07,19,Female,Undergraduate,Student,Single,5,2,8-10 hours,Never,Often,3,Prefer not to say,0,0,3,1,0,0,3
+24/05/2026 18:44:07,31,Female,Undergraduate,Student,Single,3,3,8-10 hours,Rarely,Sometimes,3,No,3,3,0,1,0,1,3
+29/05/2026 16:32:07,20,Female,Undergraduate,Student,Single,3,3,5-7 hours,Sometimes,Often,4,No,0,0,2,1,0,0,0
+22/05/2026 12:19:07,26,Female,Undergraduate,Student,Single,3,5,2-4 hours,Sometimes,Sometimes,3,No,0,1,0,3,0,0,1
+31/05/2026 06:30:07,22,Male,Higher Secondary,Student,Single,5,5,8-10 hours,Never,Often,4,No,1,1,0,0,0,0,2
+31/05/2026 09:51:07,19,Male,Higher Secondary,Student,Single,5,5,8-10 hours,Regularly,Sometimes,4,No,0,1,2,0,0,0,0
+26/05/2026 21:00:07,22,Male,Undergraduate,Employed,Single,3,2,8-10 hours,Never,Sometimes,3,Yes,0,2,1,1,1,0,1
+28/05/2026 12:16:07,21,Female,Higher Secondary,Student,Single,5,3,5-7 hours,Sometimes,Sometimes,4,No,0,3,0,2,2,1,0
+29/05/2026 15:44:07,30,Female,Higher Secondary,Student,Married,5,5,8-10 hours,Regularly,Sometimes,4,Prefer not to say,3,1,0,1,3,0,3
+27/05/2026 21:33:07,29,Female,Undergraduate,Student,Single,5,3,5-7 hours,Sometimes,Very often,3,No,0,1,1,0,3,1,3
+26/05/2026 21:55:07,21,Female,Higher Secondary,Other,Single,5,4,5-7 hours,Sometimes,Very often,3,No,1,1,3,1,3,0,0
+25/05/2026 01:59:07,19,Female,Higher Secondary,Student,Married,3,3,8-10 hours,Sometimes,Sometimes,5,Prefer not to say,2,1,2,0,2,0,0
+22/05/2026 23:51:07,37,Male,Undergraduate,Student,Single,5,3,5-7 hours,Regularly,Sometimes,4,No,0,2,2,2,1,2,0
+27/05/2026 22:34:07,20,Male,Undergraduate,Student,Married,3,3,5-7 hours,Sometimes,Sometimes,3,No,0,3,3,2,0,0,0
+28/05/2026 17:49:07,20,Female,Undergraduate,Student,Single,3,4,2-4 hours,Never,Sometimes,5,No,2,1,0,2,1,0,0
+22/05/2026 08:11:07,20,Female,Higher Secondary,Student,Single,5,5,5-7 hours,Regularly,Rarely,4,Prefer not to say,1,0,1,2,0,0,0
+24/05/2026 17:53:07,28,Female,Higher Secondary,Student,Single,2,2,5-7 hours,Sometimes,Often,3,No,0,3,0,1,2,1,0
+26/05/2026 22:06:07,23,Male,Undergraduate,Employed,Single,3,4,5-7 hours,Sometimes,Very often,3,No,0,1,0,1,2,0,3
+25/05/2026 08:22:07,22,Female,Higher Secondary,Employed,Single,3,4,5-7 hours,Sometimes,Very often,3,No,1,1,3,1,1,0,0
+30/05/2026 16:52:07,20,Female,Undergraduate,Student,Single,2,4,2-4 hours,Sometimes,Sometimes,3,Yes,0,1,0,3,0,1,0
+30/05/2026 02:02:07,37,Female,Higher Secondary,Student,Single,2,3,5-7 hours,Sometimes,Often,2,No,2,1,1,1,1,1,0
+30/05/2026 07:49:07,23,Male,Undergraduate,Student,Single,3,5,2-4 hours,Daily,Sometimes,3,No,0,2,0,0,1,3,3
+25/05/2026 08:00:07,20,Male,Higher Secondary,Student,Single,4,4,5-7 hours,Daily,Very often,5,Yes,1,1,0,0,3,0,1
+27/05/2026 18:20:07,26,Male,Higher Secondary,Student,Single,5,5,5-7 hours,Never,Sometimes,4,No,0,2,1,3,0,0,1
+31/05/2026 09:37:07,26,Male,Higher Secondary,Student,Married,3,4,5-7 hours,Daily,Sometimes,4,Prefer not to say,0,2,3,0,1,0,0
+23/05/2026 16:14:07,45,Male,Undergraduate,Student,Single,4,4,5-7 hours,Rarely,Often,5,No,1,2,0,3,0,2,0
+23/05/2026 20:43:07,20,Female,Undergraduate,Student,Single,5,5,8-10 hours,Rarely,Often,3,No,0,2,0,0,0,0,0
+24/05/2026 08:01:07,28,Female,Higher Secondary,Student,Single,5,4,5-7 hours,Sometimes,Often,4,No,0,2,1,1,0,3,0
+25/05/2026 18:28:07,50,Female,Higher Secondary,Employed,Single,5,3,More than 10 hours,Never,Often,3,No,0,3,2,1,0,3,0
+29/05/2026 02:30:07,20,Male,Undergraduate,Student,Single,5,4,5-7 hours,Rarely,Often,5,No,1,3,3,3,0,2,0
+26/05/2026 10:31:07,24,Female,Undergraduate,Student,Single,3,3,8-10 hours,Regularly,Sometimes,5,No,1,3,3,1,3,0,0
+30/05/2026 16:47:07,23,Male,Undergraduate,Student,Single,4,4,5-7 hours,Sometimes,Often,3,No,1,1,2,3,1,0,3
+22/05/2026 12:34:07,24,Female,Undergraduate,Student,Single,3,5,5-7 hours,Rarely,Sometimes,3,No,0,1,0,0,1,1,0
+30/05/2026 20:20:07,22,Female,Graduate,Employed,Married,5,4,5-7 hours,Sometimes,Very often,5,No,3,1,1,2,2,0,0
+21/05/2026 23:21:07,26,Female,Higher Secondary,Student,Single,5,2,5-7 hours,Sometimes,Very often,3,No,2,2,2,1,1,0,0
+31/05/2026 00:43:07,23,Female,Higher Secondary,Employed,Married,3,4,5-7 hours,Rarely,Sometimes,3,No,0,3,2,3,0,3,0
+28/05/2026 05:42:07,23,Female,Undergraduate,Student,Single,4,5,More than 10 hours,Sometimes,Sometimes,3,No,0,1,3,1,1,0,0
+31/05/2026 02:39:07,23,Male,Undergraduate,Student,Married,3,4,5-7 hours,Never,Sometimes,3,No,1,2,2,0,3,0,1
+29/05/2026 09:05:07,20,Male,Undergraduate,Employed,Single,5,1,5-7 hours,Regularly,Often,3,No,1,1,3,0,0,3,0
+21/05/2026 23:02:07,27,Male,Higher Secondary,Student,Single,4,3,5-7 hours,Sometimes,Often,5,No,0,3,0,2,0,0,2
+30/05/2026 18:47:07,19,Male,Undergraduate,Student,Single,5,4,5-7 hours,Rarely,Sometimes,3,No,2,3,1,0,1,0,3
+28/05/2026 13:18:07,19,Male,Higher Secondary,Student,Married,2,5,8-10 hours,Rarely,Sometimes,3,No,0,3,2,1,0,1,3
+29/05/2026 04:10:07,22,Female,Undergraduate,Student,Married,3,4,5-7 hours,Regularly,Often,3,No,0,0,2,0,0,0,1
+24/05/2026 03:45:07,25,Female,Higher Secondary,Student,Single,5,4,5-7 hours,Sometimes,Very often,3,Prefer not to say,0,1,0,1,0,0,0
+22/05/2026 19:47:07,20,Female,Undergraduate,Student,Married,5,3,5-7 hours,Rarely,Sometimes,4,No,3,0,2,0,1,1,0
+25/05/2026 05:10:07,23,Male,Undergraduate,Student,Married,5,3,8-10 hours,Rarely,Sometimes,3,No,0,0,1,0,1,2,0
+22/05/2026 02:44:07,21,Female,Undergraduate,Student,Married,3,2,5-7 hours,Never,Often,3,No,1,1,2,0,0,3,3
+26/05/2026 02:35:07,25,Female,Undergraduate,Student,Married,5,4,2-4 hours,Sometimes,Very often,5,No,1,1,0,1,0,3,0
+24/05/2026 06:47:07,33,Female,Other,Student,Single,5,5,5-7 hours,Sometimes,Rarely,4,No,1,1,0,1,1,1,0
+30/05/2026 13:01:07,22,Female,Post graduate,Student,Married,5,3,8-10 hours,Rarely,Sometimes,3,Prefer not to say,1,2,1,0,0,0,3
+23/05/2026 14:22:07,28,Female,Undergraduate,Student,Single,3,4,5-7 hours,Regularly,Rarely,3,No,0,1,0,2,3,0,0
+30/05/2026 09:35:07,37,Male,Undergraduate,Student,Single,4,5,5-7 hours,Never,Sometimes,4,No,0,1,1,0,1,0,1
+31/05/2026 10:43:07,23,Female,Undergraduate,Student,Married,5,4,5-7 hours,Rarely,Often,3,No,0,1,3,0,1,3,0
+25/05/2026 00:44:07,21,Male,Higher Secondary,Student,Single,3,4,5-7 hours,Sometimes,Very often,3,Yes,1,1,2,0,2,1,0
+30/05/2026 13:53:07,23,Female,Graduate,Student,Married,4,3,5-7 hours,Sometimes,Sometimes,4,Prefer not to say,1,1,2,0,1,0,0
+28/05/2026 00:52:07,19,Male,Undergraduate,Other,Single,4,4,5-7 hours,Rarely,Often,5,Prefer not to say,2,2,2,0,3,0,1
+22/05/2026 01:22:07,21,Female,Undergraduate,Student,Single,5,3,8-10 hours,Regularly,Very often,3,No,0,0,3,1,3,1,0
+24/05/2026 11:23:07,27,Male,Undergraduate,Student,Single,5,5,8-10 hours,Regularly,Very often,3,No,0,0,1,0,0,0,0
+22/05/2026 02:34:07,27,Female,Undergraduate,Student,Single,3,5,2-4 hours,Sometimes,Often,3,No,0,1,0,0,3,3,2
+22/05/2026 17:00:07,26,Female,Undergraduate,Student,Single,3,3,Less than 2 hours,Regularly,Sometimes,5,No,0,1,0,2,1,2,0
+21/05/2026 19:53:07,24,Male,Higher Secondary,Student,Single,5,3,Less than 2 hours,Sometimes,Very often,5,No,0,3,0,0,1,0,0
+25/05/2026 01:01:07,19,Female,Higher Secondary,Student,Married,3,5,5-7 hours,Daily,Sometimes,3,Prefer not to say,1,1,3,0,1,0,1
+25/05/2026 13:32:07,34,Male,Undergraduate,Student,Single,5,1,2-4 hours,Rarely,Often,4,No,1,2,3,2,0,1,1
+24/05/2026 08:24:07,23,Male,Other,Student,Single,5,3,8-10 hours,Never,Often,4,Prefer not to say,1,3,2,3,1,0,0
+25/05/2026 01:14:07,31,Male,Higher Secondary,Student,Single,3,5,8-10 hours,Sometimes,Very often,5,No,2,2,1,1,1,0,0
+26/05/2026 06:07:07,20,Male,Undergraduate,Student,Single,3,4,5-7 hours,Sometimes,Never,1,No,0,2,0,2,2,0,1
+27/05/2026 18:56:07,20,Male,Post graduate,Student,Single,3,5,5-7 hours,Sometimes,Sometimes,3,No,0,3,2,0,3,0,0
+31/05/2026 07:00:07,19,Female,Higher Secondary,Student,Single,1,2,5-7 hours,Sometimes,Often,3,No,0,0,2,3,3,3,0
+26/05/2026 10:27:07,22,Male,Undergraduate,Student,Single,5,4,5-7 hours,Sometimes,Rarely,4,No,1,0,1,0,0,0,2
+22/05/2026 23:41:07,35,Male,Graduate,Student,Single,2,4,Less than 2 hours,Sometimes,Often,4,No,1,1,3,0,1,1,2
+25/05/2026 04:18:07,20,Male,Graduate,Student,Married,4,4,5-7 hours,Sometimes,Sometimes,3,No,0,1,1,1,1,1,0
+30/05/2026 14:41:07,26,Female,Undergraduate,Student,Single,5,2,8-10 hours,Sometimes,Sometimes,4,Yes,1,1,1,1,0,2,0
+30/05/2026 10:36:07,40,Female,Higher Secondary,Student,Single,5,5,5-7 hours,Sometimes,Sometimes,5,Prefer not to say,1,1,1,0,1,0,3
+27/05/2026 13:47:07,28,Female,Undergraduate,Student,Single,5,4,5-7 hours,Never,Often,4,Yes,0,3,2,2,3,0,0
+22/05/2026 13:19:07,23,Female,Higher Secondary,Student,Single,2,4,5-7 hours,Regularly,Often,3,Yes,1,1,2,2,0,1,0
+30/05/2026 02:31:07,30,Female,Undergraduate,Employed,Single,5,3,2-4 hours,Sometimes,Often,3,Prefer not to say,0,2,2,0,0,1,2
+24/05/2026 10:51:07,23,Male,Graduate,Student,Married,5,2,8-10 hours,Regularly,Rarely,4,No,0,3,1,3,1,0,0
+24/05/2026 00:10:07,19,Male,Undergraduate,Business,Single,4,3,2-4 hours,Daily,Sometimes,5,No,1,0,0,0,1,0,2
+25/05/2026 03:56:07,35,Male,Undergraduate,Student,Single,2,4,5-7 hours,Rarely,Sometimes,3,No,1,1,0,0,0,0,0
+27/05/2026 22:12:07,26,Female,Higher Secondary,Student,Single,5,5,5-7 hours,Rarely,Rarely,1,No,0,2,3,3,1,0,0
+22/05/2026 16:42:07,21,Female,Undergraduate,Student,Single,3,3,2-4 hours,Sometimes,Sometimes,1,Yes,1,1,2,1,1,1,3
+29/05/2026 17:45:07,28,Female,Higher Secondary,Student,Single,3,4,2-4 hours,Never,Often,4,Yes,0,3,0,1,0,0,0
+29/05/2026 01:11:07,20,Male,Undergraduate,Student,Single,3,4,8-10 hours,Sometimes,Sometimes,3,No,1,1,3,3,0,1,2
+25/05/2026 01:23:07,20,Male,Higher Secondary,Employed,Divorced,3,3,5-7 hours,Never,Sometimes,4,No,0,1,2,1,3,3,0
+26/05/2026 16:56:07,33,Female,Undergraduate,Student,Single,4,4,5-7 hours,Sometimes,Rarely,4,Prefer not to say,2,0,3,1,1,0,0
+23/05/2026 17:13:07,26,Male,Graduate,Student,Single,3,2,5-7 hours,Sometimes,Rarely,3,No,0,0,2,3,1,1,0
+26/05/2026 08:56:07,35,Male,Higher Secondary,Student,Single,3,3,8-10 hours,Rarely,Sometimes,5,No,0,0,0,3,3,0,2
+28/05/2026 09:02:07,23,Male,Undergraduate,Student,Single,3,5,5-7 hours,Sometimes,Often,3,No,0,1,1,1,1,0,0
+23/05/2026 10:40:07,25,Male,Undergraduate,Student,Single,3,3,2-4 hours,Rarely,Rarely,4,No,0,1,3,1,3,1,1
+25/05/2026 18:44:07,19,Female,Undergraduate,Student,Single,4,4,5-7 hours,Never,Often,4,No,0,3,0,0,0,0,2
+25/05/2026 00:04:07,31,Male,Undergraduate,Student,Single,3,5,5-7 hours,Rarely,Sometimes,4,Yes,0,3,1,1,3,0,1
+26/05/2026 03:02:07,21,Male,Other,Student,Single,3,2,8-10 hours,Rarely,Often,3,No,0,1,3,0,3,1,1
+29/05/2026 02:11:07,26,Male,Undergraduate,Student,Single,4,3,5-7 hours,Rarely,Sometimes,4,Prefer not to say,0,1,2,1,2,0,3
+22/05/2026 14:00:07,26,Female,Higher Secondary,Student,Single,3,3,2-4 hours,Regularly,Very often,1,Yes,0,1,0,2,0,0,0
+25/05/2026 08:20:07,20,Male,Undergraduate,Business,Single,4,3,8-10 hours,Rarely,Often,4,Prefer not to say,0,1,0,3,3,0,0
+29/05/2026 08:32:07,23,Female,Graduate,Student,Single,5,5,Less than 2 hours,Regularly,Sometimes,3,No,1,1,1,1,3,1,3
+25/05/2026 06:48:07,21,Male,Higher Secondary,Student,Single,4,2,8-10 hours,Regularly,Very often,5,No,0,3,0,3,0,0,1
+24/05/2026 14:33:07,50,Male,Undergraduate,Student,Married,3,4,5-7 hours,Rarely,Sometimes,5,No,2,1,1,1,3,0,1
+27/05/2026 12:56:07,20,Female,Graduate,Student,Single,5,5,More than 10 hours,Never,Sometimes,5,No,0,1,1,3,2,1,2
+28/05/2026 18:16:07,22,Male,Graduate,Employed,Single,1,4,8-10 hours,Regularly,Often,4,Yes,1,1,3,0,2,1,0
+25/05/2026 19:46:07,32,Female,Undergraduate,Student,Married,5,5,2-4 hours,Never,Very often,4,No,0,1,2,3,3,0,1
+26/05/2026 10:11:07,28,Male,Undergraduate,Student,Single,3,1,2-4 hours,Sometimes,Sometimes,5,No,2,1,1,1,1,0,3
+27/05/2026 20:30:07,24,Male,Undergraduate,Student,Married,2,4,2-4 hours,Sometimes,Rarely,4,No,1,0,3,0,1,0,1
+23/05/2026 09:47:07,20,Male,Undergraduate,Student,Single,2,5,2-4 hours,Rarely,Sometimes,4,Yes,0,1,0,2,1,1,0
+27/05/2026 07:15:07,24,Male,Other,Student,Single,2,5,2-4 hours,Rarely,Sometimes,3,Yes,1,3,0,1,2,0,2
+31/05/2026 01:32:07,19,Female,Undergraduate,Student,Single,3,2,8-10 hours,Never,Often,4,No,3,2,3,1,2,0,0
+30/05/2026 03:51:07,28,Female,Undergraduate,Student,Single,3,5,5-7 hours,Rarely,Often,3,No,1,1,2,2,1,0,0
+25/05/2026 13:22:07,25,Male,Higher Secondary,Student,Married,4,3,8-10 hours,Rarely,Rarely,4,No,2,0,2,2,2,0,1
+26/05/2026 17:32:07,24,Female,Undergraduate,Student,Single,3,3,5-7 hours,Regularly,Very often,3,Prefer not to say,0,0,3,0,1,0,0
+23/05/2026 03:34:07,19,Female,Undergraduate,Employed,Single,4,3,2-4 hours,Rarely,Very often,4,Prefer not to say,0,1,1,1,1,0,0
+23/05/2026 04:09:07,28,Female,Higher Secondary,Employed,Single,3,5,5-7 hours,Rarely,Often,3,Yes,3,1,1,3,2,0,0
+31/05/2026 06:23:07,45,Female,Undergraduate,Student,Single,2,3,5-7 hours,Regularly,Often,5,Prefer not to say,0,3,2,0,0,2,1
+27/05/2026 07:44:07,20,Female,Higher Secondary,Student,Single,4,3,5-7 hours,Rarely,Rarely,5,Yes,1,1,0,0,1,3,3
+24/05/2026 13:38:07,32,Female,Undergraduate,Employed,Single,4,5,5-7 hours,Rarely,Sometimes,3,No,2,1,0,0,2,0,0
+28/05/2026 01:59:07,29,Male,Other,Student,Single,2,2,5-7 hours,Rarely,Often,4,No,0,3,0,0,3,0,2
+24/05/2026 08:53:07,21,Female,Undergraduate,Student,Single,5,4,5-7 hours,Regularly,Very often,3,Yes,0,3,3,0,2,1,0
+24/05/2026 09:27:07,19,Female,Undergraduate,Student,Single,4,4,5-7 hours,Rarely,Rarely,1,Yes,3,1,0,1,2,3,0
+23/05/2026 10:20:07,21,Female,Undergraduate,Student,Single,1,2,5-7 hours,Sometimes,Sometimes,4,Yes,2,1,2,1,3,2,0
+24/05/2026 23:49:07,33,Male,Undergraduate,Student,Single,1,4,2-4 hours,Sometimes,Rarely,3,No,3,1,2,3,0,2,2
+28/05/2026 11:16:07,21,Male,Higher Secondary,Student,Single,4,2,8-10 hours,Sometimes,Often,5,Yes,1,2,1,0,0,0,0
+27/05/2026 02:13:07,32,Male,Undergraduate,Business,Single,3,1,5-7 hours,Sometimes,Sometimes,4,No,1,2,2,3,1,0,0
+25/05/2026 21:31:07,23,Female,Undergraduate,Other,Single,4,4,2-4 hours,Sometimes,Sometimes,3,No,0,1,3,3,0,0,0
+22/05/2026 01:56:07,20,Female,Undergraduate,Student,Married,3,5,5-7 hours,Rarely,Sometimes,5,No,0,1,3,0,2,2,0
+23/05/2026 22:10:07,24,Male,Undergraduate,Employed,Single,5,4,2-4 hours,Sometimes,Often,4,Yes,2,1,1,1,1,1,0
+27/05/2026 18:54:07,20,Female,Higher Secondary,Student,Single,3,3,5-7 hours,Sometimes,Sometimes,4,No,0,1,0,0,0,0,2
+22/05/2026 03:27:07,34,Male,Graduate,Employed,Single,5,2,8-10 hours,Rarely,Often,5,No,0,1,1,1,1,0,0
+21/05/2026 21:50:07,27,Male,Higher Secondary,Student,Single,3,3,5-7 hours,Sometimes,Often,3,No,2,3,3,0,2,0,0
+28/05/2026 05:52:07,21,Female,Higher Secondary,Student,Married,2,2,2-4 hours,Sometimes,Often,4,No,0,1,0,1,1,0,0
+23/05/2026 17:36:07,37,Male,Undergraduate,Student,Married,3,2,5-7 hours,Sometimes,Sometimes,1,No,0,0,1,0,0,1,1
+22/05/2026 17:23:07,24,Female,Undergraduate,Student,Single,4,5,More than 10 hours,Sometimes,Sometimes,5,Prefer not to say,3,1,2,0,0,1,0
+21/05/2026 23:35:07,22,Female,Other,Student,Married,4,2,2-4 hours,Rarely,Very often,3,Yes,2,1,0,0,1,0,1
+28/05/2026 17:51:07,20,Male,Undergraduate,Student,Married,5,2,Less than 2 hours,Regularly,Sometimes,1,No,0,3,2,2,0,0,0
+22/05/2026 03:36:07,20,Female,Higher Secondary,Student,Single,3,5,2-4 hours,Sometimes,Often,5,No,0,1,1,0,1,0,3
+28/05/2026 08:51:07,35,Male,Undergraduate,Student,Single,3,3,5-7 hours,Regularly,Sometimes,4,No,1,2,3,0,3,3,0
+21/05/2026 20:15:07,32,Male,Undergraduate,Employed,Single,2,2,5-7 hours,Rarely,Often,3,Yes,2,0,2,3,1,0,1
+24/05/2026 16:14:07,20,Male,Undergraduate,Other,Single,5,3,5-7 hours,Sometimes,Often,4,No,1,2,2,0,0,1,2
+24/05/2026 14:12:07,21,Female,Higher Secondary,Student,Single,5,5,More than 10 hours,Sometimes,Often,2,Yes,0,3,0,0,1,0,0
+22/05/2026 13:11:07,20,Female,Undergraduate,Student,Married,5,5,5-7 hours,Sometimes,Sometimes,3,Yes,1,1,1,2,0,0,0
+22/05/2026 16:20:07,19,Female,Undergraduate,Student,Single,3,3,5-7 hours,Never,Often,4,Prefer not to say,2,1,3,0,2,2,0
+28/05/2026 13:18:07,24,Male,Graduate,Student,Single,3,2,2-4 hours,Sometimes,Sometimes,5,No,1,0,1,1,0,0,0
+25/05/2026 12:17:07,29,Female,Undergraduate,Student,Married,5,3,2-4 hours,Sometimes,Sometimes,4,No,2,1,3,0,1,1,1
+24/05/2026 17:53:07,20,Male,Undergraduate,Student,Single,5,3,5-7 hours,Regularly,Never,4,No,0,1,1,3,3,0,0
+31/05/2026 06:13:07,21,Male,Undergraduate,Student,Single,5,4,5-7 hours,Sometimes,Very often,1,No,0,1,0,0,0,0,1
+28/05/2026 04:38:07,28,Male,Higher Secondary,Employed,Single,2,4,8-10 hours,Sometimes,Sometimes,3,Prefer not to say,0,2,0,2,3,0,1
+24/05/2026 05:55:07,21,Male,Undergraduate,Business,Single,5,5,2-4 hours,Rarely,Very often,3,No,0,1,0,0,2,2,2
+25/05/2026 15:48:07,33,Male,Undergraduate,Student,Single,3,5,5-7 hours,Rarely,Sometimes,5,Prefer not to say,2,1,0,0,1,0,0
+24/05/2026 11:46:07,32,Female,Undergraduate,Student,Single,5,5,8-10 hours,Rarely,Often,3,No,0,1,0,1,0,2,0
+23/05/2026 20:35:07,20,Male,Higher Secondary,Student,Single,3,2,2-4 hours,Rarely,Often,4,No,3,3,1,0,0,1,1
+29/05/2026 18:40:07,40,Male,Higher Secondary,Student,Single,4,5,8-10 hours,Rarely,Sometimes,3,No,0,1,3,0,1,0,0
+24/05/2026 19:58:07,24,Female,Undergraduate,Employed,Single,2,3,2-4 hours,Daily,Sometimes,5,No,0,3,2,1,2,1,0
+23/05/2026 20:16:07,24,Male,Undergraduate,Business,Single,4,5,More than 10 hours,Sometimes,Sometimes,3,No,2,0,1,0,0,0,2
+27/05/2026 16:13:07,23,Male,Higher Secondary,Student,Single,5,5,5-7 hours,Daily,Very often,4,No,0,1,2,0,1,0,3
+27/05/2026 02:47:07,22,Male,Undergraduate,Student,Single,4,3,5-7 hours,Rarely,Often,3,No,1,1,1,1,0,1,0
+26/05/2026 05:38:07,23,Male,Graduate,Student,Married,3,5,5-7 hours,Regularly,Often,5,No,0,1,1,0,0,0,0
+23/05/2026 04:01:07,28,Female,Undergraduate,Employed,Single,3,5,Less than 2 hours,Sometimes,Rarely,5,No,1,2,1,1,2,0,3
+30/05/2026 10:00:07,34,Male,Undergraduate,Student,Single,5,5,8-10 hours,Rarely,Sometimes,3,No,1,3,2,0,2,0,0
+27/05/2026 05:04:07,22,Female,Undergraduate,Student,Married,5,4,2-4 hours,Sometimes,Sometimes,3,No,1,0,1,1,0,0,0
+28/05/2026 10:15:07,42,Female,Graduate,Student,Single,5,4,8-10 hours,Rarely,Sometimes,3,No,0,1,2,1,3,1,2
+21/05/2026 21:20:07,31,Male,Higher Secondary,Student,Divorced,3,5,More than 10 hours,Rarely,Often,3,No,0,3,0,1,0,3,2
+28/05/2026 18:24:07,20,Female,Undergraduate,Other,Single,3,4,8-10 hours,Rarely,Often,4,No,0,0,1,2,0,0,0
+31/05/2026 07:11:07,21,Male,Higher Secondary,Student,Single,5,3,5-7 hours,Regularly,Often,4,No,0,3,2,2,0,0,0
+25/05/2026 09:22:07,19,Male,Undergraduate,Student,Single,3,5,5-7 hours,Sometimes,Often,3,No,1,2,1,1,1,2,2
+23/05/2026 17:08:07,26,Female,Undergraduate,Student,Single,4,5,8-10 hours,Regularly,Sometimes,3,No,0,1,0,0,3,2,3
+29/05/2026 17:53:07,21,Female,Undergraduate,Student,Single,3,4,5-7 hours,Sometimes,Sometimes,3,No,0,1,0,0,0,0,1
+30/05/2026 14:54:07,20,Male,Undergraduate,Student,Single,2,3,5-7 hours,Sometimes,Very often,3,No,3,3,0,2,0,0,0
+25/05/2026 11:07:07,32,Female,Higher Secondary,Student,Married,3,2,2-4 hours,Sometimes,Often,3,No,1,1,3,0,3,0,0
+28/05/2026 18:17:07,20,Female,Higher Secondary,Student,Single,5,3,8-10 hours,Sometimes,Very often,3,No,0,1,3,0,0,1,0
+22/05/2026 20:30:07,21,Female,Higher Secondary,Student,Married,5,2,More than 10 hours,Rarely,Often,4,Yes,0,2,3,1,2,1,3
+30/05/2026 17:13:07,23,Male,Other,Student,Single,3,4,5-7 hours,Sometimes,Often,3,No,0,1,2,0,2,0,0
+22/05/2026 14:05:07,20,Female,Higher Secondary,Student,Married,5,4,8-10 hours,Sometimes,Sometimes,3,No,2,1,0,0,0,0,3
+23/05/2026 16:46:07,22,Female,Undergraduate,Student,Single,5,4,5-7 hours,Sometimes,Often,4,Prefer not to say,1,2,2,3,1,3,0
+22/05/2026 12:56:07,20,Male,Undergraduate,Employed,Single,5,3,8-10 hours,Rarely,Sometimes,4,No,0,0,0,0,1,0,1
+28/05/2026 04:43:07,45,Female,Undergraduate,Student,Single,3,2,5-7 hours,Rarely,Sometimes,3,No,2,3,1,2,0,0,2
+27/05/2026 12:21:07,40,Male,Undergraduate,Student,Single,3,4,5-7 hours,Sometimes,Rarely,5,No,0,0,2,1,3,0,0
+24/05/2026 10:56:07,25,Female,Undergraduate,Other,Single,3,4,More than 10 hours,Never,Often,5,No,0,2,2,1,2,2,2
+28/05/2026 23:50:07,24,Female,Undergraduate,Student,Single,3,4,Less than 2 hours,Sometimes,Often,1,Yes,3,3,2,3,0,3,2
+25/05/2026 15:35:07,23,Female,Higher Secondary,Student,Married,5,3,5-7 hours,Sometimes,Very often,1,Prefer not to say,1,0,1,2,2,3,2
+28/05/2026 03:12:07,19,Female,Higher Secondary,Student,Single,5,5,More than 10 hours,Sometimes,Often,3,No,3,1,3,3,0,0,1
+22/05/2026 19:38:07,21,Male,Undergraduate,Student,Married,3,5,5-7 hours,Sometimes,Sometimes,5,No,2,1,1,0,1,2,1
+26/05/2026 00:39:07,24,Male,Undergraduate,Student,Married,5,5,5-7 hours,Regularly,Very often,3,Yes,1,1,1,0,2,0,0
+30/05/2026 06:09:07,26,Female,Undergraduate,Student,Single,3,2,5-7 hours,Sometimes,Very often,4,Prefer not to say,2,2,1,1,1,0,0
+29/05/2026 04:09:07,20,Male,Undergraduate,Student,Single,5,4,5-7 hours,Rarely,Often,3,No,1,1,0,0,0,0,3
+27/05/2026 20:19:07,24,Male,Higher Secondary,Student,Married,3,1,2-4 hours,Sometimes,Often,5,Prefer not to say,0,1,3,0,1,0,3
+25/05/2026 21:11:07,32,Male,Higher Secondary,Student,Single,3,4,5-7 hours,Never,Often,5,No,2,0,0,2,1,0,0
+27/05/2026 11:20:07,29,Male,Undergraduate,Student,Single,3,2,More than 10 hours,Sometimes,Often,5,No,1,1,3,1,0,0,0
+22/05/2026 00:04:07,20,Female,Graduate,Student,Single,5,5,5-7 hours,Sometimes,Very often,4,Prefer not to say,0,3,1,1,1,0,3
+25/05/2026 10:15:07,22,Female,Higher Secondary,Student,Single,5,5,5-7 hours,Rarely,Sometimes,3,Yes,0,1,2,1,1,1,2
+22/05/2026 05:19:07,24,Male,Higher Secondary,Student,Single,4,4,5-7 hours,Rarely,Sometimes,4,No,1,1,2,2,0,3,0
+23/05/2026 01:22:07,50,Female,Higher Secondary,Employed,Single,4,4,5-7 hours,Sometimes,Very often,4,No,3,1,0,3,2,2,0
+26/05/2026 04:35:07,29,Male,Undergraduate,Student,Single,4,2,8-10 hours,Rarely,Often,3,No,2,0,2,0,1,0,0
+27/05/2026 04:50:07,21,Female,Undergraduate,Student,Single,5,4,5-7 hours,Never,Sometimes,3,Yes,0,0,3,3,1,0,2
+25/05/2026 13:25:07,22,Male,Graduate,Student,Single,5,5,2-4 hours,Never,Often,4,No,1,1,1,2,1,3,0
+26/05/2026 10:22:07,20,Female,Undergraduate,Student,Single,5,2,8-10 hours,Regularly,Often,3,No,1,1,0,1,0,0,2
+24/05/2026 20:11:07,20,Male,Higher Secondary,Student,Single,4,5,8-10 hours,Daily,Often,3,Prefer not to say,2,2,3,1,1,3,0
+30/05/2026 01:01:07,42,Female,Higher Secondary,Student,Single,2,5,8-10 hours,Sometimes,Often,3,Prefer not to say,0,3,0,1,0,0,2
+27/05/2026 11:52:07,33,Female,Undergraduate,Student,Single,4,4,2-4 hours,Never,Sometimes,1,No,3,1,3,1,1,1,2
+25/05/2026 20:53:07,32,Male,Higher Secondary,Student,Single,5,4,2-4 hours,Regularly,Sometimes,4,Prefer not to say,0,0,0,0,2,1,0
+28/05/2026 09:27:07,22,Male,Higher Secondary,Student,Single,5,3,5-7 hours,Sometimes,Rarely,3,No,0,0,2,3,1,0,1
+26/05/2026 07:33:07,19,Male,Undergraduate,Student,Married,5,4,8-10 hours,Sometimes,Sometimes,3,Prefer not to say,0,1,1,0,0,1,0
+21/05/2026 19:34:07,26,Female,Undergraduate,Student,Single,5,3,2-4 hours,Sometimes,Sometimes,4,Yes,0,1,0,2,1,0,0
+23/05/2026 16:50:07,20,Female,Undergraduate,Student,Single,2,2,2-4 hours,Sometimes,Rarely,3,No,1,3,2,2,1,0,0
+30/05/2026 01:33:07,29,Female,Undergraduate,Student,Single,3,5,8-10 hours,Never,Often,3,No,1,1,0,0,0,0,0
+31/05/2026 05:49:07,22,Female,Graduate,Employed,Single,5,4,5-7 hours,Daily,Sometimes,3,No,0,1,3,2,0,2,0
+27/05/2026 21:24:07,19,Male,Undergraduate,Student,Single,3,4,5-7 hours,Daily,Sometimes,1,No,3,0,3,0,1,0,2
+26/05/2026 06:37:07,30,Female,Graduate,Student,Married,5,4,5-7 hours,Daily,Sometimes,3,Yes,0,1,0,0,1,0,3
+25/05/2026 14:40:07,26,Male,Graduate,Student,Single,4,2,8-10 hours,Never,Often,4,No,2,3,2,1,3,1,2
+28/05/2026 08:12:07,30,Female,Higher Secondary,Student,Single,5,3,8-10 hours,Rarely,Sometimes,3,No,0,1,0,3,1,3,2
+30/05/2026 08:50:07,21,Male,Undergraduate,Employed,Single,2,4,8-10 hours,Sometimes,Sometimes,3,No,2,3,0,1,1,0,3
+23/05/2026 15:02:07,20,Female,Undergraduate,Student,Married,5,4,More than 10 hours,Rarely,Sometimes,5,No,0,1,3,1,0,1,3
+25/05/2026 22:24:07,20,Male,Undergraduate,Student,Single,5,2,8-10 hours,Sometimes,Often,1,No,1,0,2,0,1,1,2
+25/05/2026 20:51:07,19,Male,Other,Student,Single,5,4,2-4 hours,Never,Sometimes,4,No,1,2,0,2,1,1,3
+26/05/2026 23:36:07,20,Female,Undergraduate,Student,Single,3,5,5-7 hours,Rarely,Very often,3,Prefer not to say,0,2,0,1,0,0,3
+30/05/2026 10:22:07,27,Female,Higher Secondary,Unemployed,Single,5,2,5-7 hours,Rarely,Rarely,4,No,0,1,2,3,1,0,3
+29/05/2026 13:57:07,30,Male,Undergraduate,Student,Single,5,5,More than 10 hours,Rarely,Sometimes,4,No,1,0,2,1,0,1,0
+25/05/2026 18:15:07,19,Female,Higher Secondary,Student,Single,3,3,2-4 hours,Sometimes,Very often,4,Yes,0,3,2,0,0,0,0
+25/05/2026 03:51:07,25,Female,Higher Secondary,Student,Single,5,3,5-7 hours,Sometimes,Often,3,Yes,0,2,0,0,3,3,3
+30/05/2026 01:52:07,21,Female,Undergraduate,Student,Single,3,3,2-4 hours,Rarely,Often,5,Yes,2,2,0,0,0,0,1
+24/05/2026 11:08:07,22,Male,Undergraduate,Employed,Single,5,3,2-4 hours,Sometimes,Sometimes,3,Prefer not to say,1,3,0,1,0,2,2
+22/05/2026 17:33:07,20,Female,Graduate,Student,Single,3,5,5-7 hours,Sometimes,Sometimes,4,Yes,1,1,1,0,0,2,0
+23/05/2026 19:42:07,20,Female,Undergraduate,Student,Single,3,5,8-10 hours,Sometimes,Sometimes,4,Yes,0,1,0,1,0,0,3
+25/05/2026 23:34:07,22,Male,Undergraduate,Other,Single,3,5,8-10 hours,Rarely,Very often,3,Prefer not to say,0,1,2,2,1,3,1
+28/05/2026 07:54:07,24,Female,Undergraduate,Student,Single,3,4,8-10 hours,Daily,Often,4,No,1,1,2,0,1,2,1
+26/05/2026 19:13:07,21,Male,Undergraduate,Student,Married,4,5,5-7 hours,Sometimes,Very often,3,No,3,2,3,0,3,2,0
+23/05/2026 11:48:07,19,Male,Graduate,Student,Single,3,4,8-10 hours,Regularly,Sometimes,3,No,1,2,3,1,0,0,1
+26/05/2026 22:58:07,24,Male,Higher Secondary,Business,Single,3,4,8-10 hours,Sometimes,Often,3,No,0,0,2,1,0,2,0
+27/05/2026 07:23:07,23,Female,Other,Student,Single,3,5,2-4 hours,Never,Never,1,Yes,0,2,2,2,0,0,0
+31/05/2026 05:04:07,19,Male,Higher Secondary,Student,Single,5,3,5-7 hours,Sometimes,Often,3,No,2,2,3,0,3,0,1
+28/05/2026 00:24:07,33,Male,Undergraduate,Student,Single,4,3,More than 10 hours,Never,Often,1,No,1,1,3,0,2,0,0
+27/05/2026 17:58:07,22,Male,Other,Employed,Single,3,4,8-10 hours,Sometimes,Sometimes,4,No,1,2,1,0,3,0,2
+23/05/2026 21:24:07,30,Female,Graduate,Student,Married,3,4,8-10 hours,Sometimes,Often,2,No,2,1,3,1,0,0,2
+29/05/2026 08:04:07,20,Male,Higher Secondary,Student,Single,5,3,2-4 hours,Daily,Often,3,No,0,3,2,2,2,0,0
+25/05/2026 02:43:07,31,Female,Undergraduate,Employed,Married,3,4,8-10 hours,Rarely,Often,4,Prefer not to say,0,0,0,1,1,1,1
+26/05/2026 03:36:07,22,Male,Undergraduate,Student,Single,3,4,5-7 hours,Sometimes,Often,3,Yes,1,1,1,1,1,0,0
+23/05/2026 12:14:07,21,Female,Graduate,Student,Single,5,5,5-7 hours,Sometimes,Never,4,No,1,2,0,1,0,0,3
+25/05/2026 02:33:07,21,Female,Undergraduate,Student,Single,3,4,8-10 hours,Rarely,Very often,4,No,0,0,0,0,0,3,1
+21/05/2026 23:04:07,21,Female,Higher Secondary,Employed,Single,3,3,8-10 hours,Rarely,Often,4,No,1,0,0,2,0,0,0
+30/05/2026 03:23:07,37,Female,Undergraduate,Student,Married,4,5,2-4 hours,Daily,Rarely,4,No,0,1,2,0,1,0,0
+28/05/2026 21:06:07,24,Male,Higher Secondary,Student,Single,3,5,5-7 hours,Sometimes,Often,4,Yes,0,0,0,1,0,3,0
+28/05/2026 09:57:07,25,Male,Undergraduate,Student,Single,2,4,5-7 hours,Rarely,Often,4,No,1,2,0,1,1,0,1
+27/05/2026 20:33:07,35,Female,Graduate,Student,Single,5,3,2-4 hours,Sometimes,Sometimes,3,No,0,1,1,1,0,0,0
+30/05/2026 11:26:07,23,Female,Undergraduate,Student,Single,5,4,5-7 hours,Sometimes,Very often,4,Prefer not to say,0,1,0,0,3,2,0
+26/05/2026 00:06:07,35,Female,Undergraduate,Student,Divorced,3,4,More than 10 hours,Rarely,Sometimes,3,Yes,0,2,3,0,3,0,1
+27/05/2026 23:58:07,19,Female,Undergraduate,Employed,Single,3,4,2-4 hours,Never,Very often,4,No,2,0,2,1,1,3,0
+24/05/2026 11:28:07,20,Female,Undergraduate,Employed,Single,2,3,2-4 hours,Rarely,Rarely,3,No,0,1,0,2,1,0,2
+23/05/2026 00:24:07,26,Female,Undergraduate,Student,Single,3,3,5-7 hours,Rarely,Sometimes,3,No,2,1,0,0,1,0,1
+21/05/2026 22:12:07,26,Male,Undergraduate,Student,Single,4,4,8-10 hours,Sometimes,Sometimes,3,Yes,2,3,0,1,1,0,2
+22/05/2026 03:10:07,28,Male,Higher Secondary,Student,Married,1,3,More than 10 hours,Regularly,Sometimes,3,No,0,1,0,1,0,0,0
+29/05/2026 01:51:07,28,Female,Undergraduate,Student,Single,2,4,5-7 hours,Never,Sometimes,5,No,0,1,0,1,0,0,2
+22/05/2026 14:58:07,30,Female,Other,Student,Single,4,5,8-10 hours,Rarely,Sometimes,3,No,3,2,3,2,2,0,2
+23/05/2026 12:58:07,22,Female,Undergraduate,Business,Single,5,5,More than 10 hours,Sometimes,Rarely,5,No,0,1,2,3,1,3,0
+31/05/2026 04:22:07,21,Male,Higher Secondary,Employed,Single,3,5,More than 10 hours,Sometimes,Sometimes,5,Prefer not to say,0,1,3,1,2,0,0
+30/05/2026 15:37:07,22,Female,Undergraduate,Student,Single,3,4,5-7 hours,Sometimes,Often,5,No,0,1,0,3,0,0,0
+31/05/2026 03:22:07,23,Female,Undergraduate,Student,Single,4,3,More than 10 hours,Daily,Sometimes,5,No,0,1,2,0,0,1,2
+30/05/2026 06:37:07,20,Male,Undergraduate,Employed,Single,1,5,2-4 hours,Sometimes,Often,3,No,0,1,3,1,0,3,1
+21/05/2026 19:21:07,36,Female,Undergraduate,Employed,Single,5,3,2-4 hours,Sometimes,Often,3,No,0,1,3,1,1,0,0
+26/05/2026 05:21:07,20,Male,Undergraduate,Student,Single,4,3,8-10 hours,Sometimes,Often,4,No,0,1,2,0,3,0,0
