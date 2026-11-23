@@ -242,7 +242,8 @@ If you use this dataset in your research, please cite the following resource:
 
 **Repository:** GitHub
 
-**Dataset DOI:** To be added after Mendeley Data publication.
+**Dataset DOI:** DOI:
+10.17632/4s7dmcw5x7.1.
 
 A suggested citation format:
 
