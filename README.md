@@ -247,7 +247,8 @@ If you use this dataset in your research, please cite the following resource:
 
 A suggested citation format:
 
-Panthadas, K. (2026). *Bangladesh Psychosocial and Behavioral Health Survey Dataset*. Mendeley Data. https://doi.org/[DOI]
+Panthadas, K. (2026). *Bangladesh Psychosocial and Behavioral Health Survey Dataset*. Mendeley Data. DOI:
+10.17632/4s7dmcw5x7.1
 
 Please replace the DOI placeholder after the dataset receives its permanent DOI.
 
